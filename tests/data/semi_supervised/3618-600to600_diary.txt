@@ -1,0 +1,1 @@
+start: 0.008532423208191127, stop: 9.496587030716723, speaker: Helen Thomsonstart: 9.496587030716723, stop: 21.817406143344712, speaker: Lynne Malcolmstart: 23.046075085324233, stop: 77.7901023890785, speaker: Helen Thomsonstart: 82.85836177474404, stop: 99.56484641638225, speaker: Lynne Malcolmstart: 102.02218430034131, stop: 107.9948805460751, speaker: Helen Thomson

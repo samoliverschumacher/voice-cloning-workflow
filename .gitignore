@@ -1,0 +1,24 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# transcripts, audio & alignments
+data/00_raw
+data/01_interim/**/*.wav
+data/01_interim/**/*-words.json
+data/01_interim/**/*-alignments.json
+
+*.code-workspace
+
+saved_models
+
+__pycache__
+
+# Makefile artefacts
+*.bak*
+
+# cache
+*.pyc
