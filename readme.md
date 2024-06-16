@@ -54,7 +54,7 @@ The entire model training would take around 15 days for just the Synthesizer. Fi
 
 Ground truth audio;
 
-https://github.com/samoliverschumacher/mums-voice/assets/80297960/14cde0a8-70d5-434d-ac7f-073573d029df
+https://github.com/samoliverschumacher/voice-cloning-workflow/assets/80297960/d27b67f8-9457-4c24-aaa2-43955830a17d
 
 Transcript;
 ```
@@ -63,15 +63,14 @@ BOOST|BRAIN|POWER|FIRST|HE|TRIED|SMART|PILLS|THEN|HE|MOVED|ON|TO|ELECTRICAL|BRAI
 
 Pre-trained model, trained for 295,000 iterations. Conditioned with audio from the same speaker;
 
-
-https://github.com/samoliverschumacher/mums-voice/assets/80297960/d331100f-9b06-4e91-99f4-1e574d4b75ea
+https://github.com/samoliverschumacher/voice-cloning-workflow/assets/80297960/9d0fbda7-02ba-4e2e-b92c-550a4c3e3636
 
 > 🔉 *At least the pre-trained model has imitated a voice that is female! But it's not fooling anyone...*
 
 Fine-tuned model, trained for a further 19,000 iterations. Conditioned with audio from the same speaker;
 
 
-https://github.com/samoliverschumacher/mums-voice/assets/80297960/03cb6cda-b5e5-4db1-9536-6db2d608f412
+https://github.com/samoliverschumacher/voice-cloning-workflow/assets/80297960/0bb21378-6701-421b-9430-d19c0a8e8e57
 
 
 > 🔉 *In contrast to the pre-trained model, the fine-tuned model has done an amazing job - with only about 36 hours training on a NVIDIA GeForce RTX 3050 Ti Laptop GPU!!*
